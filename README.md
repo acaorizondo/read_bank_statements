@@ -10,6 +10,7 @@ Use the read_pdf.py.
 
 ```python
 import sys
+import os
 sys.path.append(os.path.abspath("/path"))
 from read_pdf import *
 ```
