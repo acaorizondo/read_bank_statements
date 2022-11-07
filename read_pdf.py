@@ -165,8 +165,8 @@ def convert_statementPDF_to_statementeCSV(pdf_dir, pdf_name):
 
 
 # setting global parameters
-pdf_name = "statement-2022-10-21.pdf"
-pdf_dir = "C:\\Users\\Arturo\\Documents\\Python_scripts\\projects\\read_bank_statements\\"
+pdf_name = "file_name.pdf"
+pdf_dir = "path"
 csv_file = convert_statementPDF_to_statementeCSV(pdf_dir, pdf_name)
     
 
